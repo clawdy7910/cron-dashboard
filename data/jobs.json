@@ -1,0 +1,5 @@
+[
+  {"id": "1", "name": "Semrush kündigen", "nextRun": "2026-02-16T09:00:00+01:00", "category": "reminder"},
+  {"id": "2", "name": "Gabriel Geburtstag", "nextRun": "2026-02-23T08:00:00+01:00", "category": "birthday"},
+  {"id": "3", "name": "Laurenz Geburtstag", "nextRun": "2026-02-25T08:00:00+01:00", "category": "birthday"}
+]
